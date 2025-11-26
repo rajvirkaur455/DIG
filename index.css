@@ -9,11 +9,18 @@
   --text-main: #ffffff;
   --text-muted: #8b9bb4;
 }
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+    --deep-space: #02040a;
+  --midnight: #0a1124;
+  --neon-green: #39ff14;
+  --soft-green: #ccffc2;
+  --glass-bg: rgba(10, 17, 36, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --text-main: #ffffff;
+  --text-muted: #8b9bb4;
 }
 
 body {
